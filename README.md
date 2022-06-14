@@ -1,2 +1,2 @@
 # PR
-Projekty z OpenMP oraz CUDA
+Projekt z OpenMP
